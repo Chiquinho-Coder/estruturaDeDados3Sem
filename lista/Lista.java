@@ -1,11 +1,6 @@
 
 package lista;
 
-/**
- *
- * @author pedro.hpoliveira6
- */
-
 
 //classe para testes das funções de ListaEncadeada.java
 
